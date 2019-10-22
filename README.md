@@ -1,2 +1,3 @@
-# dummy-actions
+# Tests
+
 Dummy PR for actions
